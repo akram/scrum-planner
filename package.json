@@ -9,7 +9,7 @@
   "version": "2.0.0-11",
   "description": "Scrum Team Poker - A realtime web application powered by node/express and Socket.IO.",
   "scripts": {
-    "start": "app.js",
+    "start": "node app.js",
     "test": "mocha"
   },
   "engines": {
