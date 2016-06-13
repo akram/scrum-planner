@@ -112,7 +112,7 @@ span.ipt-err
 #story-table th:nth-of-type(2)
 {
   width: 5%;
-  text-align: center;
+  text-align: left;
 }
 #story-table th:last-of-type
 {
